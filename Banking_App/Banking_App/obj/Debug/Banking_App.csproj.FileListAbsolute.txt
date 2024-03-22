@@ -1,0 +1,13 @@
+D:\IT7742_Assignment2\Banking_App\Banking_App\bin\Debug\Banking_App.exe.config
+D:\IT7742_Assignment2\Banking_App\Banking_App\bin\Debug\Banking_App.exe
+D:\IT7742_Assignment2\Banking_App\Banking_App\bin\Debug\Banking_App.pdb
+D:\IT7742_Assignment2\Banking_App\Banking_App\obj\Debug\Banking_App.csproj.AssemblyReference.cache
+D:\IT7742_Assignment2\Banking_App\Banking_App\obj\Debug\Banking_App.MainForm.resources
+D:\IT7742_Assignment2\Banking_App\Banking_App\obj\Debug\Banking_App.Properties.Resources.resources
+D:\IT7742_Assignment2\Banking_App\Banking_App\obj\Debug\Banking_App.csproj.GenerateResource.cache
+D:\IT7742_Assignment2\Banking_App\Banking_App\obj\Debug\Banking_App.csproj.CoreCompileInputs.cache
+D:\IT7742_Assignment2\Banking_App\Banking_App\obj\Debug\Banking_App.exe
+D:\IT7742_Assignment2\Banking_App\Banking_App\obj\Debug\Banking_App.pdb
+D:\IT7742_Assignment2\Banking_App\Banking_App\obj\Debug\Banking_App.AddCustomerForm.resources
+D:\IT7742_Assignment2\Banking_App\Banking_App\obj\Debug\Banking_App.EditCustomerForm.resources
+D:\IT7742_Assignment2\Banking_App\Banking_App\obj\Debug\Banking_App.ManageCustomers.resources
